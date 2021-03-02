@@ -70,3 +70,4 @@
 
 ### 2021년 03월
 * [2021년 03월 01일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2003%EC%9B%94/2021%EB%85%84%2003%EC%9B%94%2001%EC%9D%BC.md)
+* [2021년 03월 02일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2003%EC%9B%94/2021%EB%85%84%2003%EC%9B%94%2002%EC%9D%BC.md)
