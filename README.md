@@ -131,3 +131,4 @@
 * [2021년 04월 27일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2004%EC%9B%94/2021%EB%85%84%2004%EC%9B%94%2027%EC%9D%BC.md)
 * [2021년 04월 28일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2004%EC%9B%94/2021%EB%85%84%2004%EC%9B%94%2028%EC%9D%BC.md)
 * [2021년 04월 29일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2004%EC%9B%94/2021%EB%85%84%2004%EC%9B%94%2029%EC%9D%BC.md)
+* [2021년 04월 30일](https://github.com/Kim-Ju-Yeop/Today-Record/blob/main/2021%EB%85%84%2004%EC%9B%94/2021%EB%85%84%2004%EC%9B%94%2030%EC%9D%BC.md)
